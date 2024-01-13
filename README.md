@@ -20,7 +20,7 @@ What We Offer
 Join Us on Our Journey
 We believe that technology has the power to transform lives and we are here to make that happen. Are you ready to be part of this revolution?
 
-Contact Us: velavan@datasecurity.asia
+Contact Us: cto@datasecurity.asia
 
 DSA - Where Innovation Meets Security and Practicality
 
