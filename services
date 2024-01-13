@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Data Security Asia - Services</title>
+</head>
+<body>
+    <header>
+        <h1>Our Services</h1>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="about.html">About Us</a>
+            <a href="services.html">Services</a>
+            <a href="contact.html">Contact Us</a>
+        </nav>
+    </header>
+    <section>
+        <h2>What We Offer</h2>
+        <p>Detailed descriptions of our innovative services...</p>
+    </section>
+    <footer>
+        <p>Contact Us: <a href="mailto:cto@datasecurity.asia">cto@datasecurity.asia</a></p>
+        <p>Follow Us: [Social Media Links]</p>
+    </footer>
+</body>
+</html>
