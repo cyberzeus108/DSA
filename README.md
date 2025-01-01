@@ -26,4 +26,4 @@ DSA - Where Innovation Meets Security and Practicality
 
 Thank you for visiting our GitHub repository!
 
-DATASECURITY ASIA (DSA) © 2024
+DATASECURITY ASIA (DSA) © 2025
